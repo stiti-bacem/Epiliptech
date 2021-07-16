@@ -20,7 +20,8 @@ Download link: https://www.ukbonn.org/epileptologie/ag-lehnertz-downloads/
 
 
 ## 2) Isip dataset:
+This is a subset of TUEG that contains 100 subjects epilepsy and 100 subjects without epilepsy, as determined by a certified neurologist. The data was developed in collaboration with a number of partners including NIH. \n
 
-
+Isip dataset: The TUH EEG Epilepsy Corpus (TUEP) download link
 
 https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml

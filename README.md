@@ -15,7 +15,11 @@ during the activity of the crisis (ictal).
 Each file is a record of brain activity for 23.6 seconds. The time series
 is sampled in 4097 data points. Each data point is the value of
 the EEG record at a different time. So we have a total of 500 individuals with each 4097
-data points for 23.6 seconds.\n
+data points for 23.6 seconds.
+
+
+
+
 Download link: https://www.ukbonn.org/epileptologie/ag-lehnertz-downloads/
 
 
